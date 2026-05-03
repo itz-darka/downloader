@@ -1,0 +1,13 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link href="https://mastodonshare.com/s/bootstrap.min.css" rel="stylesheet"><link href="https://mastodonshare.com/s/font-awesome.min.css" rel="stylesheet"><link rel="stylesheet" href="https://mastodonshare.com/s/mastodonshare.css" ><link rel="shortcut icon" href="https://mastodonshare.com/s/img/favicon.ico" type="image/x-icon"><title>Mastodon Share</title>
+<meta name="title" content="Share content on any Mastodon with MastodonShare">
+<meta name="description" content="Easy, free and 100% private solution to allow your users to share content on their Mastodon.">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+
+<meta property="og:title" content="MastodonShare">
+<meta property="og:site_name" content="MastodonShare">
+<meta property="og:url" content="https://mastodonshare.com">
+<meta property="og:description" content="Easy, free and 100% private solution to allow your users to share content on their Mastodon.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://mastodonshare.com/s/img/mastodonshare.png"></head><body><form method="get" action="https://mastodonshare.com/" id="share" class="px-3"><a href="https://mastodonshare.com/" class="mb-3"><img alt="Mastodon Share" src="https://mastodonshare.com/s/img/mastodonshare160.png"/></a><div class="card mb-3"><div class="card-header fw-bold">Sharing on Mastodon:</div><div class="card-body"><p class="card-text"><br/><br/>https://multiup.io/download/87ed98f3b812df76a6b277f73e755c57/Subliminal.v1.0.2.1-P2P.zip</p></div></div><input type="hidden" name="text" class="form-control" value=""><input type="hidden" name="url" class="form-control" value="https://multiup.io/download/87ed98f3b812df76a6b277f73e755c57/Subliminal.v1.0.2.1-P2P.zip"><div class="input-group"><input type="text" name="set_instance" class="form-control" placeholder="Your mastodon instance"><button class="btn btn-own" type="submit"><i class="fa fa-check-circle"></i><span class="ms-2 d-none d-sm-inline">Save</span></button></div></form><div id="f"><a href="https://mastodonshare.com/">Home</a><a href="https://mastodonshare.com/about">About</a></div></body></html>
